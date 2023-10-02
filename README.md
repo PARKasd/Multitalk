@@ -5,3 +5,7 @@ This project just builds newest Kakaotalk with [source](https://gitlab.com/alias
 ## 유의사항
  I'm not, in any way, responsible for any problem using this ipa. <br>
 이 ipa를 설치함으로써 생기는 모든 문제는 책임지지 않습니다, <br>
+
+###다운로드
+
+[최신](https://github.com/PARKasd/Multitalk/releases/latest)
